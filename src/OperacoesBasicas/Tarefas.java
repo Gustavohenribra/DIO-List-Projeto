@@ -13,7 +13,7 @@ public class Tarefas {
 
     @Override
     public String toString() {
-        return "Tarefas [descricao=" + descricao + "]";
+        return descricao;
     }
 
 }
